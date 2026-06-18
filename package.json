@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@auron-solana/sdk": "^0.1.0",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
     "next": "16.2.9",
     "react": "19.2.4",
     "react-dom": "19.2.4"
